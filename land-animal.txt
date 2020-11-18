@@ -1,0 +1,4 @@
+lion
+cat
+dot
+snake
